@@ -582,7 +582,7 @@ figcaption {
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   background-color: #f4f4f4;
-  background-image: url('../images/pc.jpg');
+  background-image: url('../images/pc1.jpg');
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1295,7 +1295,7 @@ figcaption {
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   background-color: #f4f4f4;
-  background-image: url('../images/pc.jpg');
+  background-image: url('../images/pc1.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1341,7 +1341,7 @@ figcaption {
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   background-color: #f4f4f4;
-  background-image: url('../images/pc.jpg');
+  background-image: url('../images/pc1.jpg');
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1834,7 +1834,7 @@ figcaption {
   }
 
   .mobile {
-    background-image: url('../images/mobile.jpg');
+    background-image: url('../images/mobile1.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-attachment: scroll;
